@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.IlyaK.check2fly.SignUpTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-11T20:19:06" hostname="MacBook-Pro-MacBook.local" time="6.689">
+<testsuite name="com.IlyaK.check2fly.SignUpTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-12T21:35:52" hostname="MacBook-Pro-MacBook.local" time="6.727">
   <properties/>
-  <testcase name="openCheck2FlyTest" classname="com.IlyaK.check2fly.SignUpTest" time="6.689"/>
+  <testcase name="openCheck2FlyTest" classname="com.IlyaK.check2fly.SignUpTest" time="6.727"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[дек 11, 2020 10:19:07 PM org.openqa.selenium.interactions.Actions moveToElement
+  <system-err><![CDATA[дек 12, 2020 11:35:53 PM org.openqa.selenium.interactions.Actions moveToElement
 INFO: When using the W3C Action commands, offsets are from the center of element
-дек 11, 2020 10:19:08 PM org.openqa.selenium.interactions.Actions moveToElement
+дек 12, 2020 11:35:53 PM org.openqa.selenium.interactions.Actions moveToElement
 INFO: When using the W3C Action commands, offsets are from the center of element
 ]]></system-err>
 </testsuite>
